@@ -1,3 +1,5 @@
+#이것은 추가된 주석입니다
+
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
