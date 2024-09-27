@@ -1,4 +1,4 @@
-#이것은 추가된 주석입니다
+# 이것은 추가된 주석입니다
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
@@ -15,6 +15,7 @@ def partition(l, r, nums):
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
+# '대'이식스 기습 숭배, 아직 거기 살아 노래 겁나 좋습니다~
  
  
 def quicksort(l, r, nums):
